@@ -12,4 +12,7 @@ Buscar por Genero
 
 
 Descripcion de la pelicula
+
 ![3](https://github.com/GustavQ09/API-Rest-MovieDatabase/assets/100110402/3ee99f5b-b6f9-4725-993c-1273439d5918)
+
+
